@@ -1,31 +1,8 @@
-## Node
 node_modules/
-npm-debug.log*
-package-lock.json
-
-## Playwright
-.playwright/
-test-results/
-videos/
-screenshots/
-
-## Env
 .env
-
-## OS / IDE
-.DS_Store
-.vscode/
-.idea/
-Thumbs.db
-node_modules/
-.DS_Store
-Thumbs.db
-*.log
-.env
-.vscode/
 dist/
 build/
-tests-results/
+*.log
+.DS_Store
 playwright-report/
-blob-report/
 test-results/

@@ -1,3 +1,3 @@
-# PlaywrightCourse
+# Playwright AIMastery
 
-Small repo for Playwright course exercises.
+This repository contains the code for the Playwright Mastery course.
